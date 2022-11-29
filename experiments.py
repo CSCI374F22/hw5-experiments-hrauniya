@@ -1,5 +1,4 @@
 """
-@Harsha Rauniyar 
 HW5: Experiments. Implementing different models using scikit-learn for expirements
 """
 
